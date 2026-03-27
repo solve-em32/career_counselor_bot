@@ -1,0 +1,90 @@
+{
+  "courses": {
+    "technology": [
+      {
+        "name": "Python for Everybody",
+        "platform": "Coursera",
+        "provider": "University of Michigan",
+        "level": "Beginner",
+        "duration": "8 months",
+        "cost": "Free to audit / ~3000 Rs for certificate",
+        "link": "https://www.coursera.org/specializations/python",
+        "good_for": ["software_engineer", "data_scientist"]
+      },
+      {
+        "name": "Machine Learning Specialization",
+        "platform": "Coursera",
+        "provider": "Andrew Ng / Stanford",
+        "level": "Intermediate",
+        "duration": "3 months",
+        "cost": "Free to audit",
+        "link": "https://www.coursera.org/specializations/machine-learning-introduction",
+        "good_for": ["data_scientist"]
+      },
+      {
+        "name": "Full Stack Web Development",
+        "platform": "freeCodeCamp",
+        "provider": "freeCodeCamp",
+        "level": "Beginner to Advanced",
+        "duration": "6-12 months",
+        "cost": "Free",
+        "link": "https://www.freecodecamp.org",
+        "good_for": ["software_engineer"]
+      },
+      {
+        "name": "Google UX Design Certificate",
+        "platform": "Coursera",
+        "provider": "Google",
+        "level": "Beginner",
+        "duration": "6 months",
+        "cost": "Free to audit",
+        "link": "https://www.coursera.org/professional-certificates/google-ux-design",
+        "good_for": ["graphic_designer"]
+      },
+      {
+        "name": "Cybersecurity Fundamentals",
+        "platform": "Coursera",
+        "provider": "IBM",
+        "level": "Beginner",
+        "duration": "3 months",
+        "cost": "Free to audit",
+        "link": "https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst",
+        "good_for": ["software_engineer", "data_scientist"]
+      }
+    ],
+    "business": [
+      {
+        "name": "Business Fundamentals",
+        "platform": "edX",
+        "provider": "Wharton / UPenn",
+        "level": "Beginner",
+        "duration": "4 months",
+        "cost": "Free to audit",
+        "link": "https://www.edx.org/learn/business",
+        "good_for": ["entrepreneur", "ca"]
+      },
+      {
+        "name": "Financial Accounting",
+        "platform": "Coursera",
+        "provider": "University of Illinois",
+        "level": "Beginner",
+        "duration": "4 months",
+        "cost": "Free to audit",
+        "link": "https://www.coursera.org/learn/financial-accounting",
+        "good_for": ["ca"]
+      }
+    ],
+    "upsc_preparation": [
+      {
+        "name": "UPSC CSE Free Preparation",
+        "platform": "YouTube",
+        "provider": "Drishti IAS / Vision IAS",
+        "level": "All levels",
+        "duration": "2-3 years",
+        "cost": "Free on YouTube",
+        "link": "https://www.youtube.com/@DrishtiIASEnglish",
+        "good_for": ["ias_officer"]
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "interest_to_career_map": {
+    "maths_science": {
+      "description": "You enjoy numbers, logic, problem solving, science subjects",
+      "careers": ["software_engineer", "data_scientist", "pilot", "doctor", "ca"],
+      "message": "Your analytical mind is your biggest strength! Careers in tech, medicine, and finance suit you well."
+    },
+    "arts_creativity": {
+      "description": "You enjoy drawing, music, writing, design, creative thinking",
+      "careers": ["graphic_designer", "entrepreneur"],
+      "message": "Creative fields are booming in the digital age! Design, content, and media offer great opportunities."
+    },
+    "people_communication": {
+      "description": "You enjoy talking to people, leading teams, resolving issues, public speaking",
+      "careers": ["lawyer", "ias_officer", "entrepreneur", "defense_officer"],
+      "message": "Your communication skills are gold! Law, civil services, and leadership roles are perfect for you."
+    },
+    "business_money": {
+      "description": "You enjoy understanding markets, money, business strategy, trading",
+      "careers": ["ca", "entrepreneur", "ias_officer"],
+      "message": "Business and finance is your calling! CA, MBA, and entrepreneurship offer great paths."
+    },
+    "helping_others": {
+      "description": "You want to help people, contribute to society, serve the nation",
+      "careers": ["doctor", "ias_officer", "defense_officer", "lawyer"],
+      "message": "Your desire to serve is admirable! Medicine, civil services, and defense are noble paths."
+    },
+    "technology_gadgets": {
+      "description": "You love computers, gadgets, coding, how things work technically",
+      "careers": ["software_engineer", "data_scientist", "pilot"],
+      "message": "You're born for the tech era! Software, AI, and cutting-edge aviation tech await you."
+    }
+  },
+
+  "stream_to_career_map": {
+    "PCM": {
+      "stream": "Physics Chemistry Maths (12th Science)",
+      "best_careers": ["software_engineer", "data_scientist", "pilot", "defense_officer", "entrepreneur"],
+      "entrance_exams": ["JEE Mains", "JEE Advanced", "NDA", "BITSAT", "VITEEE"]
+    },
+    "PCB": {
+      "stream": "Physics Chemistry Biology (12th Science)",
+      "best_careers": ["doctor", "defense_officer"],
+      "entrance_exams": ["NEET-UG", "NDA (Army only)"]
+    },
+    "PCMB": {
+      "stream": "Physics Chemistry Maths Biology (12th Science - all 4)",
+      "best_careers": ["doctor", "software_engineer", "data_scientist", "pilot", "defense_officer"],
+      "entrance_exams": ["JEE Mains", "NEET-UG", "NDA", "BITSAT"]
+    },
+    "Commerce": {
+      "stream": "Commerce with Maths (12th)",
+      "best_careers": ["ca", "entrepreneur", "lawyer"],
+      "entrance_exams": ["CA Foundation", "CLAT", "IPMAT (for IIM Indore BBA)"]
+    },
+    "Arts": {
+      "stream": "Humanities / Arts (12th)",
+      "best_careers": ["ias_officer", "lawyer", "graphic_designer", "entrepreneur"],
+      "entrance_exams": ["UPSC CSE", "CLAT", "NID DAT", "NIFT"]
+    },
+    "Graduation": {
+      "stream": "Any Graduate (pursuing or completed)",
+      "best_careers": ["software_engineer", "data_scientist", "ias_officer", "lawyer", "ca", "entrepreneur"],
+      "entrance_exams": ["UPSC CSE", "GATE", "CAT", "GRE", "CDS", "CLAT (3yr LLB)"]
+    }
+  },
+
+  "salary_range_filter": {
+    "high": {
+      "label": "High Salary (25+ LPA)",
+      "careers": ["software_engineer", "data_scientist", "doctor", "pilot", "ca", "lawyer"]
+    },
+    "medium": {
+      "label": "Medium Salary (10-25 LPA)",
+      "careers": ["defense_officer", "ias_officer", "graphic_designer"]
+    },
+    "stable": {
+      "label": "Stable Government Job",
+      "careers": ["ias_officer", "defense_officer"]
+    }
+  }
+}
