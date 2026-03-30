@@ -1,0 +1,4 @@
+# Python dependencies for Career Counselor Bot
+# Install with: pip install -r requirements.txt
+
+streamlit>=1.28.0
