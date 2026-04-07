@@ -36,8 +36,8 @@ Bot: ═════════════════════════
 - 🔄 **Backup options** if primary career doesn't work out
 - 📚 **Free online course recommendations** (Coursera, YouTube, etc.)
 - 🧩 **Interest assessment quiz** — 3 questions → personalized career suggestions
-- 💬 **Context memory** — follow-up questions work naturally
-- 🌐 **Two interfaces** — terminal (pure Python) + web UI (Streamlit)
+- 💬 **Context memory** — follow up questions work naturally 
+- 🌐 **Two interfaces** — terminal (pure python) + web Ui streamlit 
 - ⚡ **Smart detection** — 4-step keyword matching with tiebreaker logic
 
 ---
