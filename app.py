@@ -13,6 +13,7 @@ from core.engine import (
     format_career_overview, format_alternatives, format_courses,
     CAREERS_DB, APTITUDE_MAP,
 )
+from vercel_analytics_config import get_analytics_script
 
 st.set_page_config(
     page_title="CareerBot • IIT Patna",
@@ -20,6 +21,12 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded",
 )
+
+# ── Vercel Web Analytics ──────────────────────────────────────────────────────
+# Inject Vercel Analytics tracking script
+analytics_script = get_analytics_script()
+if analytics_script:
+    st.components.v1.html(analytics_script, height=0)
 
 st.markdown("""
 <style>
